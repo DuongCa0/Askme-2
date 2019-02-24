@@ -392,7 +392,7 @@ Main Components
 }
 .cd-products-table .top-info .check::after {
   /* check icon */
-  background: url(../img/cd-check.svg) no-repeat center center;
+  background: no-repeat center center;
   background-size: 24px 24px;
   opacity: 0;
   -webkit-transition: opacity 0.3s;
