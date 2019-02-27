@@ -973,7 +973,7 @@ section
 	display: inline-block;
 	font-size: 16px;
 	font-weight: 500;
-	color: #e95a5a;
+	color: #6c6a74; 
 	margin-right: 20px;
 	text-decoration: line-through;
 }
@@ -982,7 +982,7 @@ section
 	display: inline-block;
 	font-size: 16px;
 	font-weight: 500;
-	color: #6c6a74;
+	color: #e95a5a;
 	margin-top: 12px;
 }
 .details_text
