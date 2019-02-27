@@ -977,12 +977,20 @@ section
 	margin-right: 20px;
 	text-decoration: line-through;
 }
-.details_price
+.details_sale
 {
 	display: inline-block;
 	font-size: 16px;
 	font-weight: 500;
 	color: #fa0707;
+	margin-top: 12px;
+}
+.details_price
+{
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	color: #2f53f1;
 	margin-top: 12px;
 }
 .details_text
